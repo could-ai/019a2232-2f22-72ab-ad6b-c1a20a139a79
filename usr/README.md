@@ -1,15 +1,23 @@
-# couldai_user_app
+# dji_ia
 
-A new Flutter project.
+DJI IA - AI Chat Interface combining ChatGPT and Gemini styles
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This Flutter app provides a chat interface inspired by ChatGPT and Gemini.
 
-A few resources to get you started if this is your first Flutter project:
+Features:
+- Mixed chat UI design
+- Simulated AI responses
+- Custom app icon
+- Cross-platform support
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Running the App
+
+1. Ensure you have Flutter installed
+2. Run `flutter pub get` to install dependencies
+3. Run `flutter pub run flutter_launcher_icons` to generate app icons
+4. Run `flutter run` to start the app
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
